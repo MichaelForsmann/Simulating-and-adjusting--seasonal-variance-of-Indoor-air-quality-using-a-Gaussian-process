@@ -16,7 +16,7 @@ The data is mostly there to showcase the application and that the code is workin
 ## Pipeline 
 ![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/Seasonality_functions/Plots/Pipeline.png)
 ## Plots and performence to estimate general function for seasonality of the gases and particles
-![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/Seasonality_functions/Plots/plot.png)
+![plot](https://github.com/MichaelForsmann/Inferring-indoor-air-quality-from-incomplete-data-and-Gaussian-Process-modelling/blob/main/Seasonality_functions/Plots/seasonal_function.png)
 ### References 
 - [Pyro: bingham2019pyro:](https://arxiv.org/abs/1810.09538) 
 - [Scipy: 2020SciPy-NMeth:](https://www.nature.com/articles/s41592-019-0686-2)
