@@ -1,0 +1,18 @@
+name: clinical_regression
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python>=3.10
+  - jupyterlab
+  - numpyro
+  - pandas
+  - seaborn
+  - scikit-learn
+  - ipywidgets
+  - openpyxl
+  - shap
+  - pip
+  - pip:
+      - arviz[h5netcdf,matplotlib]
